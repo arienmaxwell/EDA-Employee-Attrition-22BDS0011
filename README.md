@@ -10,6 +10,7 @@ This project is part of the BCSE331L Exploratory Data Analysis course.
 It uses the **Employee Attrition Dataset** to perform **data cleaning, statistical summaries, and visualization-based insights**.
 
 The notebook follows the course requirements and includes:
+
 **Phase 1**
 - Data loading and basic exploration
 - Data cleaning and preprocessing
