@@ -16,6 +16,7 @@ The notebook follows the course requirements and includes:
 - **Univariate analysis**
 - **Bivariate analysis**
 - **Multivariate analysis**
+
 **Phase 2**
 - 1D Analysis
 - 2D Analysis
