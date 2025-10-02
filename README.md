@@ -9,15 +9,21 @@
 This project is part of the BCSE331L Exploratory Data Analysis course.  
 It uses the **Employee Attrition Dataset** to perform **data cleaning, statistical summaries, and visualization-based insights**.
 
-The notebook follows the course requirements (Modules 2 to 7) and includes:
+The notebook follows the course requirements and includes:
+**Phase 1**
 - Data loading and basic exploration
 - Data cleaning and preprocessing
 - **Univariate analysis**
 - **Bivariate analysis**
 - **Multivariate analysis**
+**Phase 2**
+- 1D Analysis
+- 2D Analysis
+- 3D Analysis
+- K-Means Clustering
 
 ---
 
-## 📂 Dataset
+## Dataset
 **Source:** [Employee Attrition Dataset](https://raw.githubusercontent.com/salemprakash/EDA/main/Data/Employee%20Attrition.csv)  
 The dataset contains employee demographic details, job-related information, and attrition status.
